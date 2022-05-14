@@ -8,6 +8,9 @@ const {
   SWAPI_NODE_ENV: NODE_ENV,
 } = process.env;
 
+const {
+  SWAPI_NODE_ENV: 
+} =  process.env;
 const currentEnv = {
   development,
   test,
